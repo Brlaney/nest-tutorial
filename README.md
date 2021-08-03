@@ -26,6 +26,8 @@
 
 This project is using the following tutorial to learn Nest.js [link](https://www.youtube.com/watch?v=2n3xS89TJMI)
 
+I am currently halfway through the `Dependency Injection` section of the video - approx. 19 minutes into the tutorial.
+
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
 
 ## Installation
